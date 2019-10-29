@@ -6,8 +6,9 @@ Made by Maadhav Sharma
 - [Follow me on Twitter](https://twitter.com/maadhav_sharma)
 - [My Website](decoders.code.blog)
 ## ScreenShots
+<img src="https://assets.materialup.com/uploads/3875e659-2efb-4139-8cd9-25ae3c892598/preview.jpg">
 
-! [Click Here](https://assets.materialup.com/uploads/3875e659-2efb-4139-8cd9-25ae3c892598/preview.jpg)
+[Click Here](https://assets.materialup.com/uploads/3875e659-2efb-4139-8cd9-25ae3c892598/preview.jpg)
 
 ## 
 This project is a starting point for a Flutter application.
