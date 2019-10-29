@@ -8,7 +8,7 @@ Made by Maadhav Sharma
 ## ScreenShots
 
 
-![ScreenShot](https://raw.githubusercontent.com/Maadhav/flutter-login-ui-concept/blob/master/ScreenShots/preview.jpg)
+![ScreenShot](https://raw.githubusercontent.com/Maadhav/flutter-login-ui-concept/master/ScreenShots/preview.jpg)
 
 ## 
 This project is a starting point for a Flutter application.
