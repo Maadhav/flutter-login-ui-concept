@@ -10,6 +10,7 @@ Made by Maadhav Sharma
 
 ![ScreenShot](https://raw.githubusercontent.com/Maadhav/flutter-login-ui-concept/master/ScreenShots/preview.jpg)
 
+- [Design Source Credit:](https://www.uplabs.com/hoangpts)
 ## 
 This project is a starting point for a Flutter application.
 
