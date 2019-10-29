@@ -6,9 +6,9 @@ Made by Maadhav Sharma
 - [Follow me on Twitter](https://twitter.com/maadhav_sharma)
 - [My Website](decoders.code.blog)
 ## ScreenShots
-<img src=https://raw.githubusercontent.com/Maadhav/flutter-login-ui-concept/blob/master/ScreenShots/preview.jpg">
 
-[Click Here](https://raw.githubusercontent.com/Maadhav/flutter-login-ui-concept/blob/master/ScreenShots/preview.jpg)
+
+![ScreenShot](https://raw.githubusercontent.com/Maadhav/flutter-login-ui-concept/blob/master/ScreenShots/preview.jpg)
 
 ## 
 This project is a starting point for a Flutter application.
